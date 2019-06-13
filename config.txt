@@ -1,4 +1,4 @@
-﻿token= NTg4NzU3MzcyMDY4MDM2NjIx.XQJxcA.iNXdIZzy6xJLHNJYDUOGs_SjJrM
+token= NTg4NzU3MzcyMDY4MDM2NjIx.XQJzGw.wDk8s5iBShZfd4YhQau3t13VoBc
 owner= 405683225445531648
 prefix= $
 game= Type $play
